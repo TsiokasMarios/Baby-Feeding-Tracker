@@ -1,0 +1,2 @@
+Can load the website by going to "public" folder and opening index.html
+src contains the source code
